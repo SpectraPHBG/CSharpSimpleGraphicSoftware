@@ -1,0 +1,15 @@
+D:\GraphicsGUIUniProject\C#\CGProject\bin\Debug\Draw.exe
+D:\GraphicsGUIUniProject\C#\CGProject\bin\Debug\Draw.pdb
+D:\GraphicsGUIUniProject\C#\CGProject\bin\Debug\Newtonsoft.Json.dll
+D:\GraphicsGUIUniProject\C#\CGProject\bin\Debug\Newtonsoft.Json.xml
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.DimensionsSelector.resources
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.Properties.Resources.resources
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.MainForm.resources
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.src.GUI.OpacitySelector.resources
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.csproj.CopyComplete
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.exe
+D:\GraphicsGUIUniProject\C#\CGProject\obj\Debug\Draw.pdb
